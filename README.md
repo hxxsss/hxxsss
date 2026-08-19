@@ -24,7 +24,7 @@
       <br>  
       <b>Desenvolvedor de Software</b> | Automação, Dados e IA | USP<br><br>  
       Moro em São Paulo e o que mais me motiva é criar soluções que melhoram a rotina de quem usa. Desenvolver soluções que ajudem as pessoas é o que me faz gostar tanto de programar. Entender processos complexos e transformá-los em aplicações simples e inteligentes do dia a dia é um pouco do que faço todos os dias.<br><br>  
-      Atualmente, atuo na QI Tech escalando processos na Administração de Fundos de Investimento. Minha especialidade une automação e engenharia de dados, desenvolvendo rotinas de RPA, Web Scraping e Automação Web para integração de sistemas que não possuem APIs nativas (API Wrapping). O uso da Inteligência Artificial para processar, classificar e extrair valor dos dados não-estruturados é o ponto-chave da minha atuação hoje. Para orquestrar toda essa operação, meu ecossistema técnico gira em torno de Python (Pandas, Playwright, BeautifulSoup) e SQL.<br><br>
+      Atualmente, atuo na QI Tech escalando processos na Administração de Fundos de Investimento. Minha especialidade une automação e engenharia de dados, desenvolvendo rotinas de RPA, Web Scraping e Automação Web para integração de sistemas que não possuem APIs nativas (API Wrapping). O uso da Inteligência Artificial para processar, classificar e extrair valor dos dados não-estruturados é o ponto-chave da minha atuação hoje. Meu ecossistema técnico gira em torno de Python (Pandas, Playwright, BeautifulSoup) e SQL.<br><br>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=py,java,c,postgres,postman,git,github,gitlab,notion,vscode" alt="Tech Stack" />
       </div><br>
