@@ -16,7 +16,7 @@
   </tr>  
   <tr>  
     <td valign="middle">  
-      <h3>Hey there! I’m Henrique 👋</h3>  
+      <h3>Oi! Eu sou o Henrique 👋</h3>  
     </td>  
   </tr>  
   <tr>  
