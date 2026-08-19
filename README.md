@@ -22,9 +22,9 @@
   <tr>  
    <td valign="middle">  
       <br>  
-      <b>Full-Stack Developer (React & Python/Django)</b> | Class of 2026<br><br>  
-      I am based in Trivandrum and deeply passionate about building end-to-end web applications. I love bridging the gap between robust, scalable backend architectures and highly interactive, minimalist user interfaces.<br><br>  
-      Currently, I'm focusing my energy on building <b>FileGhost</b> (a privacy-centric file-sharing platform) and <b>Updrop</b> (automation tools). My daily technical playground revolves around <b>React, Python, Django, and Tailwind CSS</b>. Whether it's designing secure RESTful APIs or crafting seamless frontend experiences, I enjoy turning complex problems into elegant web solutions.<br><br>
+      <b>Desenvolvedor de Software</b> | Automação, Dados e IA | USP<br><br>  
+      Moro em São Paulo e o que mais me motiva é criar soluções que melhoram a rotina de quem usa. Desenvolver soluções que ajudem as pessoas é o que me faz gostar tanto de programar. Entender processos complexos e transformá-los em aplicações simples e inteligentes do dia a dia é um pouco do que faço todos os dias.<br><br>  
+      Atualmente, atuo na QI Tech escalando processos na Administração de Fundos de Investimento. Minha especialidade une automação e engenharia de dados, desenvolvendo rotinas de RPA, Web Scraping e Automação Web para integração de sistemas que não possuem APIs nativas (API Wrapping). O uso da Inteligência Artificial para processar, classificar e extrair valor dos dados não-estruturados é o ponto-chave da minha atuação hoje. Para orquestrar toda essa operação, meu ecossistema técnico gira em torno de Python (Pandas, Playwright, BeautifulSoup) e SQL.<br><br>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=py,java,c,postgres,postman,git,github,gitlab,notion,vscode" alt="Tech Stack" />
       </div><br>
