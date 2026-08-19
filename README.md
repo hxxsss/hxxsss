@@ -1,1 +1,2 @@
-<img width="1080" height="1080" alt="Design sem nome (3)" src="https://github.com/user-attachments/assets/0f5c7c3b-8bbf-45bf-8e4b-a84b9e25cd2a" />
+<img width="1296" height="1296" alt="Design sem nome (4)" src="https://github.com/user-attachments/assets/cefa8a22-e03c-496c-a8dd-6108c2f02537" />
+
